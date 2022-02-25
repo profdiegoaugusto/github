@@ -1,8 +1,5 @@
 # Git/Github
 
-Created: February 25, 2022 8:13 AM
-Tags: desenvolvimento, git, github, jogos, lab, mobile, web
-
 ![git_banner_2.png](git_banner_2.png)
 
 **Git** é um *Sistema de Controle de Versão* distribuído gratuito e de código aberto projetado para lidar com tudo, desde projetos pequenos a muito grandes com velocidade e eficiência. Na Engenharia de Software, Controle de Versão é um componente do Gerenciamento de Configurações, também conhecido como: controle de revisão, controle de origem ou gerenciamento de código-fonte. 
