@@ -6,8 +6,6 @@
 
 Gerenciamento de versões, envolve manter o acompanhamento de várias versões de componentes do sistema e assegurar que as mudanças nos componentes, realizadas por diferentes desenvolvedores, não interfiram umas nas outras.  O **GitHub** é uma plataforma de hospedagem de código para controle de versão e colaboração. Ele permite que você e outras pessoas trabalhem juntos em projetos à partir de qualquer lugar.
 
-# Sumário
-
 # Se prepare para a aula
 
 Vamos reservar alguns minutos para configurar o seu ambiente de trabalho local.
